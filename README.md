@@ -1,3 +1,5 @@
+![Texto alternativo para el banner](1703535767229.jpg)
+
 ## Hi there 👋
 
 I'm a Software Engineering student passionate about innovative projects and automating tasks efficiently.
